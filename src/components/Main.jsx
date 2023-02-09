@@ -10,32 +10,29 @@ function Main() {
           name: 'Dignity Memorial Funeral and Cemetery | Fort Collins, Colorado',
           role: 'Assistant Family Service Manager • Oct 2017 – Feb 2021',
           image: job1,
-          bio: `• Established sales goals & achieved goals by focusing on training the team, managing the teams’ daily activities, and recruiting.
-          • Maintained and achieved a $250,000 monthly sales quota.
-          • Educated, achieved, and wrote legally binding contracts for families’ funeral and cemetery needs in the office,
-          home, or virtually.
-          • Created and conducted graveside services for bereaved families.
-          • Project managed the creation, design, and installation of private cemetery estates.`,
+          bio: `Successfully established sales goals and exceeded them through effective team training, daily activity management, and recruiting efforts.
+          Consistently achieved a monthly sales quota of $250,000.
+          Skilled in educating families and writing legally binding contracts for funeral and cemetery services, both in-person and virtually.
+          Provided compassionate and personalized graveside services to bereaved families.
+          Expertly project managed the creation, design, and installation of private cemetery estates, ensuring a seamless and dignified experience for families.`,
         },
         {
           name: 'Vessey Funeral Services | Fort Collins, Colorado',
           role: 'Apprentice Funeral Director • November 2016 – May 2017',
           image: job2,
-          bio: `• Performed removals of the deceased from their place of passing, bringing them respectfully and discreetly to the
-          funeral home. Also, prepared the deceased for embalming or cremation.
-          • Handled the preparation and set up of funeral services for grieving families.
-          • Provided families with exceptional services by handling legal & logistics details on behalf of the deceased.`,
+          bio: `Efficiently and respectfully removed the deceased from their place of passing and prepared them for embalming or cremation.
+          Demonstrated empathy and attention to detail in preparing and setting up funeral services for grieving families.
+          Provided exceptional customer service by managing the legal and logistical details on behalf of the deceased, ensuring a seamless experience for families during a difficult time.`,
         },
         {
           name: 'The Colorado Room | Fort Collins, Colorado',
           role: 'Bartender • November 2015 – April 2017',
           image: job3,
-          bio: `• Keyholder for the business, responsible for the opening and closing operations and managing the daily spent
-          reports.
-          • Managed bar revenues, ensuring that all patrons were billed and all cash properly accounted for.
-          • Preparing cocktail and drink orders for customers or waiters to deliver throughout the establishment.
-          • Maintaining bar cleanliness for spills, food debris, used dishes, glassware, and utensils, and miscellaneous trash.
-          • Continually provided exceptional service to customers by being friendly, knowledgeable, and accommodating.`,
+          bio: `Held keyholder responsibilities, including opening and closing operations and managing daily spending reports.
+          Proactively managed bar revenues and ensured accurate billing and cash handling.
+          Skillfully prepared and served cocktails and drinks, providing exceptional customer service with a friendly and knowledgeable demeanor.
+          Maintained a clean and organized bar area, ensuring a pleasant experience for customers.
+          Continuously exceeded customer expectations by being accommodating and providing exceptional service.`,
         },
 
       ]
