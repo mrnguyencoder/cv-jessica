@@ -51,7 +51,7 @@ function Main() {
                 </p>
                 </div>
             </div>
-            <div className="flex justify-center items-center"><img src={jess} alt="" className="hidden lg:flex pr-5 " /></div>
+            <div className="flex justify-center"><img src={jess} alt="" className="hidden h-[80%] lg:flex lg:pr-5 " /></div>
         </div>
         <div className="">
             <h2 className=""></h2>
@@ -80,7 +80,7 @@ function Main() {
             </div>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 py-10 gap-5 px-2 lg:px-8">
-            <div className="border shadow-lg p-5 rounded-xl space-y-2">
+            <div className="border shadow-lg px-8 py-14 rounded-xl space-y-2">
                 <h2 className="text-xl font-bold">EDUCATION</h2>
                 <p className="text-slate-800">Bachelors of Science in Organisational Leadership</p>
                 <p className="text-slate-600">Fort Hays State University, Hays, Kansas, USA (January 2010 – May 2015)
@@ -88,12 +88,12 @@ function Main() {
                 <h3 className="text-xl font-bold pt-6">Leadership Certificate</h3>
                 <p className="text-slate-600">Fort Hays State University, Hays, Kansas, USA (2014)</p>
             </div>
-            <div className="border shadow-lg p-5 rounded-xl space-y-2">
-                <div className="">
+            <div className="border shadow-lg px-8 py-14 rounded-xl space-y-2">
+                <div className="space-y-2">
                     <h3 className="text-xl font-bold">TECHNICAL SKILLSET</h3>
                     <p className="text-slate-600">MS Office | Google (Google Sheets, Google Slides, Google Docs) | Web Conferencing (Zoom, Google Meets)</p>
                 </div>
-                <div className="">
+                <div className="space-y-2">
                     <h3 className="text-xl font-bold pt-6">HOBBIES</h3>
                     <p className="text-slate-600">Trumpet for 15+ years | Roller Skating Enthusiast</p>
                 </div>
