@@ -37,7 +37,7 @@ function Main() {
 
       ]
   return (
-    <section id='cv'>
+    <section id='cv' className='bg-slate-100'>
         <div className="py-24 sm:py-32 lg:flex lg:justify-between">
             <div className="mx-auto max-w-5xl px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl lg:mx-0">
@@ -67,7 +67,7 @@ function Main() {
                     <ul role="list" className="-mt-12 space-y-12 divide-y divide-gray-200 xl:col-span-3">
                     {jobs.map((job) => (
                         <li key={job.name} className="flex flex-col gap-10 pt-12 sm:flex-row">
-                        <img className="aspect-[4/5] w-52 flex-none rounded-2xl object-cover" src={job.image} alt="" />
+                        <img className="aspect-[4/5] w-72 flex-none rounded-2xl object-cover" src={job.image} alt="" />
                         <div className="max-w-xl flex-auto">
                             <h3 className="text-lg font-semibold leading-8 tracking-tight text-gray-900">{job.name}</h3>
                             <p className="text-base leading-7 text-gray-600">{job.role}</p>

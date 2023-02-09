@@ -7,6 +7,12 @@ function Footer() {
             <div className="border-t border-gray-200 py-8 text-center text-sm text-gray-500 sm:text-left">
               <span className="block sm:inline">&copy; {new Date().getFullYear()} Jessica-Shon MASTEL</span>{' '}
               <span className="block sm:inline">All rights reserved.</span>
+              <a href="https://nguyendev.fr/"
+                className="hover:text-[#61dbfb]"
+                target="_blank"
+                rel="noopener noreferrer" >
+                Made by Nguyen Dev
+             </a>
             </div>
         </div>
     </footer>
